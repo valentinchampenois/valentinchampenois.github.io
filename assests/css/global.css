@@ -19,20 +19,21 @@ input, button, textarea, select { font: inherit }
 body { 
     text-align: center;
     font-family: 'Poppins',sans-serif;
+    background-color: antiquewhite;
 }
 
 h1 {
     font-size: 78px;
     font-weight: normal;
     letter-spacing: -2px;
-    margin-bottom: 12px;
+    margin-bottom: 24px;
     line-height: 1.2;
 }
 
 h2 {
     font-size: 42px;
     letter-spacing: 6px;
-    margin-bottom: 48px;
+    margin-bottom: 24px;
     line-height: 1.2;
 }
 
@@ -48,4 +49,5 @@ p {
     font-size: 20px;
     margin-bottom: 16px;
 }
+
 
