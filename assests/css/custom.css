@@ -173,13 +173,15 @@ header.hero-block a.btn-secondary:active { border-color: var(--gray-700) }
 .theme-one .col-3 h3 { color: var(--white-000) }
 .theme-one .col-3 p { color: var(--white-000) }
 .theme-one .col-3 li { color: var(--white-000) }
-.theme-one { background-color: var(--gray-600) }
+.theme-one { background-color: var(--ontrend-700) }
 footer ul.footer-icons li a:link i, 
 footer ul.footer-icons li a:visited i { color: var(--white-000)}
 
 footer ul.footer-icons li a:focus i, 
 footer ul.footer-icons li a:hover i, 
 footer ul.footer-icons li a:active i { color: var(--blue-700)}
+
+
 
 
 

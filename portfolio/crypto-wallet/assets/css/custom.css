@@ -134,5 +134,77 @@
 }
 
 /* Global font */
-body { font-family: var(--global-font) }
+body { font-family: 'Open Sans', sans-serif; }
+
+header.hero-block a.btn-primary:focus,
+header.hero-block a.btn-primary:hover,
+header.hero-block a.btn-primary:active { background-color: var(--blue-700) }
+
+header.hero-block a.btn-primary:link,
+
+header.hero-block a.btn-primary:link,
+header.hero-block a.btn-primary:visited { background-color: var(--black-000) }
+
+header.hero-block a.btn-secondary:link,
+header.hero-block a.btn-secondary:visited { background-color: var(--ontrend-700) }
+
+header.hero-block a.btn-secondary:link,
+header.hero-block a.btn-secondary:visited { border-color: var(--cyan-900) }
+
+header.hero-block a.btn-primary:link,
+header.hero-block a.btn-primary:visited { border-color: var(--white-000) }
+
+header.hero-block a.btn-secondary:focus,
+header.hero-block a.btn-secondary:hover,
+header.hero-block a.btn-secondary:active { border-color: var(--black-000) }
+
+.theme-one { background-color: var(--ontrend-700) }
+.theme-one h2 { color: var(--white-000) } 
+.theme-one h3 { color: var(--white-000) } 
+.theme-one .upper-label { color: var(--white-000) }
+.theme-one p { color: var(--white-000) }
+.theme-one li { color: var(--white-000) }
+
+.theme-two { background-color: var(--ontrend-800) }
+.theme-two .col-2 h2 { color: var(--white-000) }
+.theme-two .col-2 p { color: var(--white-000) }
+.theme-two .col-2 li { color: var(--white-000) }
+
+.theme-two { background-color: var(--ontrend-800) }
+.theme-three { background-color: var(--ontrend-700) }
+.theme-three .col-2 h2 { color: var(--white-000) }
+.theme-three .col-2 p { color: var(--white-000) }
+.theme-three .col-2 li { color: var(--white-000) }
+
+.theme-three { background-color: var(--ontrend-800) }
+.theme-three .col-2 h2 { color: var(--white-000) }
+.theme-three .col-2 p { color: var(--white-000) }
+.theme-three .col-2 li { color: var(--white-000) }
+
+.theme-one .col-3 { background-color: var(--white-000) }
+.theme-six { background-color: var(--ontrend-700) }
+.theme-six .col-1 h2 { color: var(--white-000) }
+.theme-six .col-1 h3 { color: var(--white-000) }
+.theme-six .col-3 h3 { color: var(--white-000) }
+.theme-six .col-3 p { color: var(--white-000) }
+.theme-six .col-3 li { color: var(--white-000) }
+.theme-six .col-3 figure.icon { color: var(--blue-200) }
+
+.container-menu.menu-desktop { background-color: var(--trans-000) }
+.container-menu.menu-mobile { background-color: var(--trans-000) }
+.container-menu.menu-mobile ul.mobile-display { background-color: var(--trans-000) }
+.container-menu.menu-on-scroll ul li a:link,
+.container-menu.menu-on-scroll ul li a:visited { color: var(--white-000) }
+.container-menu.menu-on-scroll ul li a:focus,
+.container-menu.menu-on-scroll ul li a:hover,
+.container-menu.menu-on-scroll ul li a:active { color: var(--white-000) }
+.container-menu a:link,
+.container-menu a:visited { color: var(--white-000) }
+.container-menu a:focus,
+.container-menu a:hover,
+.container-menu a:active { color: var(--white-000) }
+
+
+
+
 

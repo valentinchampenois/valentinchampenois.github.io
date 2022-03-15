@@ -1,0 +1,46 @@
+#contact-form label { color: var(--black-000) }
+#contact-form [type="text"] { background-color: var(--gray-600) }
+#contact-form [type="email"] { background-color: var(--gray-600) }
+#contact-form textarea { background-color: var(--gray-600) }
+#contact-form [type="text"] { background-color: var(--black-000) }
+#contact-form [type="email"] { background-color: var(--black-000) }
+#contact-form textarea { background-color: var(--black-000) }
+#contact-form [type="text"] { background-color: var(--white-000) }
+#contact-form [type="email"] { background-color: var(--white-000) }
+#contact-form textarea { background-color: var(--white-000) }
+#contact-form #btn-submit:focus { color: var(--gray-600) }
+#contact-form #btn-submit:hover { color: var(--gray-600) }
+#contact-form #btn-submit { background-color: var(--gray-700) }
+#contact-form #btn-submit { background-color: var(--gray-600) }
+#contact-form #btn-submit { background-color: var(--gray-600) }
+#contact-form #btn-submit { background-color: var(--gray-600) }
+#contact-form #btn-submit { background-color: var(--gray-700) }
+#contact-form #btn-submit { background-color: var(--gray-800) }
+#contact-form #btn-submit { background-color: var(--pink-900) }
+#contact-form #btn-submit { border-color: var(--gray-700) }
+#contact-form [type="text"] { background-color: var(--pink-800) }
+#contact-form [type="email"] { background-color: var(--pink-800) }
+#contact-form textarea { background-color: var(--pink-800) }
+#contact-form [type="text"] { background-color: var(--white-000) }
+#contact-form [type="email"] { background-color: var(--white-000) }
+#contact-form textarea { background-color: var(--white-000) }
+#contact-form [type="text"] { border-color: var(--pink-900) }
+#contact-form [type="email"] { border-color: var(--pink-900) }
+#contact-form textarea { border-color: var(--pink-900) }
+#contact-form #btn-submit { color: var(--white-000) }
+#contact-form #btn-submit:focus { background-color: var(--green-600) }
+#contact-form #btn-submit:hover { background-color: var(--green-600) }
+#contact-form #btn-submit { background-color: var(--green-600) }
+#contact-form #btn-submit { background-color: var(--green-500) }
+#contact-form #btn-submit { background-color: var(--green-400) }
+#contact-form #btn-submit { background-color: var(--green-100) }
+#contact-form #btn-submit { background-color: var(--green-700) }
+#contact-form #btn-submit { background-color: var(--teal-400) }
+#contact-form #btn-submit { background-color: var(--teal-500) }
+#contact-form p a:link { background-color: var(--green-600) }
+#contact-form p a:visited { background-color: var(--green-600) }
+#contact-form h2 { color: var(--green-900) }
+#contact-form { background-color: var(--gray-500) }
+.container-contact-form { background-color: var(--gray-100) }
+#contact-form #btn-submit { background-color: var(--green-900) }
+#contact-form #btn-submit { background-color: var(--black-000) }
