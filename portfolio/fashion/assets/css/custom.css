@@ -1,1 +1,6 @@
 /* Add your custom styles here */
+section.theme-light.section-selector-1 h2 { color: var(--white-000) }
+section.theme-light.section-selector-1 p { color: var(--white-000) } 
+section.theme-light.section-selector-1 li { color: var(--white-000) } 
+section.theme-light.section-selector-1 { background-color: var(--green-800) }
+section.theme-light.section-selector-2 { background-color: var(--trend-400) }
